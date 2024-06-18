@@ -21,7 +21,7 @@ repository               : "mrcsrsch/mrcsrsch.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "profile_picture.jpg"
   name             : "Marcus Roesch"
   pronouns         : # example: "she/her"  
   bio              : "Data Science Enthusiast with a PhD in (Applied) Economics"
