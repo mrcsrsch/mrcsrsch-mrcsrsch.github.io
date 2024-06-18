@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Marcus Roesch - Data Science and Applied Econometrics"
+title: "About"
 author_profile: true
 redirect_from: 
   - /about/
