@@ -1,5 +1,5 @@
 ---
-layout: archive
+layout: page
 title: "CV"
 permalink: /cv/
 author_profile: true
@@ -7,6 +7,8 @@ redirect_from:
   - /resume
 ---
 
-{% include base_path %}
+<object data="{{ site.url }}{{ site.baseurl }}/files/Industry_CV_MR.pdf" width="100%" 
+height="600" type="application/pdf"></object>
+<br>
 
-<embed src="https://mrcsrsch.github.io/files/Industry_CV_MR.pdf" width="600" height="700" type='application/pdf'>
+- [Download my CV](/files/Industry_CV_MR.pdf)
