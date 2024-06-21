@@ -7,8 +7,12 @@ author_profile: true
 
 {% include base_path %}
 
-
-{% for post in site.portfolio %}
+# Research projects
+{% for post in site.research %}
   {% include archive-single.html %}
 {% endfor %}
 
+# Other projects
+{% for post in site.portfolio %}
+  {% include archive-single.html %}
+{% endfor %}
