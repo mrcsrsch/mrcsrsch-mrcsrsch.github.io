@@ -13,4 +13,5 @@ replication package: 'https://mrcsrsch.github.io/files/beauty_premium.pdf'
 
 We ask three questions. First, do election systems differ in how they translate physical attractiveness of candidates into electoral success? Second, do political parties strategically exploit the “beauty premium” when deciding on which candidates to nominate, and, third, do elected MPs use their beauty premium to reap some independence from their party? Using the German election system that combines first-past-the-post election with party-list proportional representation, our results show that plurality elections provide more scope for translating physical attractiveness into electoral success than proportional representation. Whether political parties strategically use the beauty premium to optimize their electoral objectives is less clear. Physically attractive MPs, however, allow themselves to dissent more often, i.e. they vote more often against the party line than their less attractive peers.
 
-Replication package: MISSING
+- [Download Working Paper Version](/files/beauty_premium.pdf)
+- [Replication package](https://github.com/mrcsrsch/beauty-premium-politics)
