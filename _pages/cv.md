@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 
-- [Download my CV](/files/Industry_CV_MR.pdf)
+- [View my CV](/files/MR_CV_Website.pdf)
 
 
 ## Work Experience
