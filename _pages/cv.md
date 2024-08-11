@@ -70,9 +70,9 @@ Potrafke, N., Rösch, M., & Ursprung, H. (2020). Election systems, the “beauty
 
 
 ## Teaching
-- Master: Seminar in Firm Location Strategy, 2020 - 2022
-- Master: Quantitative Spatial Analysis, 2020
-- Supervision of corporate internships
+- Seminar in Firm Location Strategy (MSc), 2020 - 2022
+- Quantitative Spatial Analysis (MSc), 2020
+- Supervision of corporate internships (BSc), 2020 - 2024
 
 ### Thesis Supervision
 -	MSc:	Dijkstra, V.M.H. (2024),	An Analysis of the Effectiveness Of The EU Cohesion Policy in Less Developed Regions
