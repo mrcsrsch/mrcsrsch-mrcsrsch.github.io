@@ -12,6 +12,11 @@ redirect_from:
 
 
 ## Work Experience
+- Applied Researcher at Statistics Netherlands, since November '19
+- Researcher at Erasmus School of Economics, September '19 
+- Research Assistant, CES Ifo Institute for Economic Research, Munich, Germany, April - June '17
+- Research Assistant, Center for Financial Frictions, Copenhagen Business School, Denmark, August - November '16
+- Research Assistant, University of Konstanz, Germany, November '15 - February '17
 
 
 ## Education
