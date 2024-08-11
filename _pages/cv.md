@@ -23,7 +23,7 @@ redirect_from:
   - Advisors: [Frank van Oort](https://frankvanoort.com), [Bas Karreman](https://www.eur.nl/people/bas-karreman), [Michiel Gerritse](https://sites.google.com/site/michielgerritse/)
   - Dissertation: [*Multinational firms and local workers*](https://pure.eur.nl/en/publications/multinational-firms-and-local-workers)
 - M.Sc. Law and Economics, Utrecht University, 2018
-- B.Sc. Economics, University of Konstanz, 2017
+- B.Sc. Quantitative Economics, University of Konstanz, 2017
 
 
 ## Summer Schools and Certificates
@@ -38,7 +38,7 @@ redirect_from:
 ## Publications and Working Papers
 Rösch, M. (2024). Post-Automation Workforce Dynamics in (Non-)Multinationals. 
 
-Rösch, M., Gerritse, M., & Karreman, B. (2024). Careers in Multinational Enterprises [*Tinbergen Institute Working Paper (No. 24-005/V)*](https://tinbergen.nl/discussion-paper/6309/24-005-v-careers-in-multinational-enterprises).
+Rösch, M., Gerritse, M., & Karreman, B. (2024). Careers in Multinational Enterprises. [*Tinbergen Institute Working Paper (No. 24-005/V)*](https://tinbergen.nl/discussion-paper/6309/24-005-v-careers-in-multinational-enterprises).
 
 Rösch, M., Gerritse, M., Karreman, B., van Oort, F., & Loog, B. (2022). Do firms or workers drive the foreign acquisition wage premium? [*Tinbergen Institute Working Paper (No. 22-014/V)*](https://tinbergen.nl/discussion-paper/6135/22-014-v-do-firms-or-workers-drive-the-foreign-acquisition-wage-premium).
 
