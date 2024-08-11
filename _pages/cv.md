@@ -106,10 +106,11 @@ Potrafke, N., Rösch, M., & Ursprung, H. (2020). Election systems, the “beauty
 -	BSc:	Severijn, A.A. (2021),	To what extent does spatial structure influence the level of emissions through transport in a region? The case of the Netherlands
 -	BSc:	Messner, M.E. (2020),	Investigating the effect of the London cordon charge on road usage, public transit ridership and the extent to which this can be applied to New York.
 
-## Concise version of my CV
-
-<object data="{{ site.url }}{{ site.baseurl }}/files/Industry_CV_MR.pdf" width="100%" 
-height="600" type="application/pdf"></object>
-<br>
-- [Download my CV](/files/Industry_CV_MR.pdf)
+# 
+# ## Concise version of my CV
+# 
+# <object data="{{ site.url }}{{ site.baseurl }}/files/Industry_CV_MR.pdf" width="100%" 
+# height="600" type="application/pdf"></object>
+# <br>
+# - [Download my CV](/files/Industry_CV_MR.pdf)
 
