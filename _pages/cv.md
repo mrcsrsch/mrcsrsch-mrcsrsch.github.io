@@ -1,22 +1,21 @@
 ---
 layout: archive
-title: "CV"
+title: "Curriculum Vitae"
 permalink: /cv/
 author_profile: true
 redirect_from:
   - /resume
 ---
 
-# Curriculum Vitae
 - [Download my CV](/files/Industry_CV_MR.pdf)
 
 
 ## Work Experience
 - Applied Researcher at Statistics Netherlands, since November '19
 - Researcher at Erasmus School of Economics, September '19 
-- Research Assistant, CES Ifo Institute for Economic Research, Munich, Germany, April - June '17
-- Research Assistant, Center for Financial Frictions, Copenhagen Business School, Denmark, August - November '16
-- Research Assistant, University of Konstanz, Germany, November '15 - February '17
+- Research Assistant at CES Ifo Institute for Economic Research, Munich, Germany, April - June '17
+- Research Assistant at Center for Financial Frictions, Copenhagen Business School, Denmark, August - November '16
+- Research Assistant at University of Konstanz, Germany, November '15 - February '17
 
 
 ## Education
@@ -105,12 +104,3 @@ Potrafke, N., Rösch, M., & Ursprung, H. (2020). Election systems, the “beauty
 -	BSc:	Paymaster, S.J.G. (2021),	The Inadequacies of Mass Rapid Transit in the Sustainable Transport Drive – the Hong Kong case
 -	BSc:	Severijn, A.A. (2021),	To what extent does spatial structure influence the level of emissions through transport in a region? The case of the Netherlands
 -	BSc:	Messner, M.E. (2020),	Investigating the effect of the London cordon charge on road usage, public transit ridership and the extent to which this can be applied to New York.
-
-# 
-# ## Concise version of my CV
-# 
-# <object data="{{ site.url }}{{ site.baseurl }}/files/Industry_CV_MR.pdf" width="100%" 
-# height="600" type="application/pdf"></object>
-# <br>
-# - [Download my CV](/files/Industry_CV_MR.pdf)
-
