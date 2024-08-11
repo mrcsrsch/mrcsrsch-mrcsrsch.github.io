@@ -25,7 +25,7 @@ author:
   name             : "Marcus Roesch"
   pronouns         : # example: "she/her"  
   bio              : "PhD Candidate in (Applied) Economics"
-  location         : "Rotterdam, Netherlands"
+  location         : #"Rotterdam, Netherlands"
   employer         : #"Red Brick University"
   uri              : # URL
   email            : "marcus.accts1@gmail.com" 
