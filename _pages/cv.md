@@ -11,8 +11,8 @@ redirect_from:
 
 
 ## Work Experience
-- Applied Researcher at Statistics Netherlands, since November '19
-- Researcher at Erasmus School of Economics, September '19 
+- Applied Researcher at [Statistics Netherlands](https://www.cbs.nl), since November '19
+- Researcher at [Erasmus School of Economics](https://www.eur.nl/en/ese), September '19 
 - Research Assistant at CES Ifo Institute for Economic Research, Munich, Germany, April - June '17
 - Research Assistant at Center for Financial Frictions, Copenhagen Business School, Denmark, August - November '16
 - Research Assistant at University of Konstanz, Germany, November '15 - February '17
@@ -20,6 +20,8 @@ redirect_from:
 
 ## Education
 - Ph.D. Economics, Erasmus University Rotterdam, 2024
+  - Advisors: [Frank van Oort](https://frankvanoort.com), [Bas Karreman](https://www.eur.nl/people/bas-karreman), [Michiel Gerritse](https://sites.google.com/site/michielgerritse/)
+  - Dissertation: [*Multinational firms and local workers*](https://pure.eur.nl/en/publications/multinational-firms-and-local-workers)
 - M.Sc. Law and Economics, Utrecht University, 2018
 - B.Sc. Economics, University of Konstanz, 2017
 
