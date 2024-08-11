@@ -74,7 +74,7 @@ Potrafke, N., Rösch, M., & Ursprung, H. (2020). Election systems, the “beauty
 - Master: Quantitative Spatial Analysis, 2020
 - Supervision of corporate internships
 
-### Thesis Supervisions
+### Thesis Supervision
 -	MSc:	Dijkstra, V.M.H. (2024),	An Analysis of the Effectiveness Of The EU Cohesion Policy in Less Developed Regions
 -	MSc:	Lo-A-Njoe, R. (2024),	From Motivation to Innovation: Examining the Impact of Technological and Non-Technological Acquisitions in the U.S. High-Tech Sector
 -	MSc:	Zonneveld, S.A. van (2024),	Environmental policy stringency and the location choices of French FDI: examining the pollution haven hypothesis
