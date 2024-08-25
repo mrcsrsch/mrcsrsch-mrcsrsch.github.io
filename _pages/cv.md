@@ -11,8 +11,9 @@ redirect_from:
 
 
 ## Work Experience
+- Applied Researcher at [Erasmus School of Economics](https://www.eur.nl/en/ese), since September '24
 - Applied Researcher at [Statistics Netherlands](https://www.cbs.nl), since November '19
-- Researcher at [Erasmus School of Economics](https://www.eur.nl/en/ese), September '19 
+- Researcher (PhD level) at [Erasmus School of Economics](https://www.eur.nl/en/ese), September '19 - August '24
 - Research Assistant at CES Ifo Institute for Economic Research, Munich, Germany, April - June '17
 - Research Assistant at Center for Financial Frictions, Copenhagen Business School, Denmark, August - November '16
 - Research Assistant at University of Konstanz, Germany, November '15 - February '17
@@ -36,13 +37,13 @@ redirect_from:
 
 
 ## Publications and Working Papers
-Rösch, M. (2024). Post-Automation Workforce Dynamics in (Non-)Multinationals. 
+Rösch, M. (2024). [*Post-Automation Workforce Dynamics in (Non-)Multinationals*](https://mrcsrsch.github.io/research/3_2024_automation/). 
 
-Rösch, M., Gerritse, M., & Karreman, B. (2024). Careers in Multinational Enterprises. [*Tinbergen Institute Working Paper (No. 24-005/V)*](https://tinbergen.nl/discussion-paper/6309/24-005-v-careers-in-multinational-enterprises).
+Rösch, M., Gerritse, M., & Karreman, B. (2024). [*Careers in Multinational Enterprises.*](https://mrcsrsch.github.io/research/2_2023_careers/) [*Tinbergen Institute Working Paper (No. 24-005/V)*](https://tinbergen.nl/discussion-paper/6309/24-005-v-careers-in-multinational-enterprises).
 
-Rösch, M., Gerritse, M., Karreman, B., van Oort, F., & Loog, B. (2022). Do firms or workers drive the foreign acquisition wage premium? [*Tinbergen Institute Working Paper (No. 22-014/V)*](https://tinbergen.nl/discussion-paper/6135/22-014-v-do-firms-or-workers-drive-the-foreign-acquisition-wage-premium).
+Rösch, M., Gerritse, M., Karreman, B., van Oort, F., & Loog, B. (2022). [*Do firms or workers drive the foreign acquisition wage premium?*](https://mrcsrsch.github.io/research/1_2022_acquisition_premium/) [*Tinbergen Institute Working Paper (No. 22-014/V)*](https://tinbergen.nl/discussion-paper/6135/22-014-v-do-firms-or-workers-drive-the-foreign-acquisition-wage-premium).
 
-Potrafke, N., Rösch, M., & Ursprung, H. (2020). Election systems, the “beauty premium” in politics, and the beauty of dissent. [*European Journal of Political Economy*](https://www.sciencedirect.com/science/article/abs/pii/S0176268020300483), 64, 101900.
+Potrafke, N., Rösch, M., & Ursprung, H. (2020). [*Election systems, the “beauty premium” in politics, and the beauty of dissent.*](https://mrcsrsch.github.io/publication/2020-beauty-premium) [*European Journal of Political Economy*](https://www.sciencedirect.com/science/article/abs/pii/S0176268020300483), 64, 101900.
 
 
 ## Presentations
