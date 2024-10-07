@@ -12,7 +12,7 @@ title                    : "Marcus Roesch"
 title_separator          : "-"
 name                     : &name "Marcus Roesch"
 description              : &description "personal description"
-url                      : https://mrcsrsch.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://mrcsrsch.github.io 
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "mrcsrsch/mrcsrsch.github.io"
 
@@ -24,7 +24,7 @@ author:
   avatar           : "profile_picture.jpg"
   name             : "Marcus Roesch"
   pronouns         : # example: "she/her"  
-  bio              : #"PhD Economist | Data Science Enthusiast"
+  bio              : "PhD Economist | Data Scientist"
   location         : #"Rotterdam, Netherlands"
   employer         : #"Red Brick University"
   uri              : # URL
