@@ -6,8 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-
-I hold a PhD from Erasmus University Rotterdam with a specialisation in international economics, econometrics, and labor economics. Since 2019, I have been affiliated with Statistics Netherlands. In my work, I apply methods from causal inference and machine learning to large-scale economic datasets. Additionally, I am fascinated by prediction and dimension reduction techniques from supervised and unsupervised machine learning, as well as the integration of machine learning methods in causal analysis.
+I hold a PhD from Erasmus University Rotterdam with a specialization in international economics, econometrics, and labor economics. Since 2019, I have been affiliated with Statistics Netherlands and currently work as a post-doctoral researcher at Erasmus University Rotterdam. My work primarily involves applying methods from causal inference to large-scale economic datasets. I also have a strong interest in prediction and dimension reduction techniques from supervised and unsupervised machine learning, and I explore how these methods can complement causal analysis. My research focuses on how changes in firms, markets, and policies impact local labor markets.
 
 I am an advocate for open science and replication. This website showcases my current and past projects, and it serves as a repository for the corresponding replication packages.
 
