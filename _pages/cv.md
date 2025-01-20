@@ -11,9 +11,8 @@ redirect_from:
 
 
 ## Work Experience
-- Applied Researcher at [Erasmus School of Economics](https://www.eur.nl/en/ese), since September '24
-- Applied Researcher at [Statistics Netherlands](https://www.cbs.nl), since November '19
-- Researcher (PhD level) at [Erasmus School of Economics](https://www.eur.nl/en/ese), September '19 - August '24
+- Data Scientist at [Erasmus School of Economics](https://www.eur.nl/en/ese), since September '24
+- Quantitative Researcher at [Erasmus School of Economics](https://www.eur.nl/en/ese) and [Statistics Netherlands](https://www.cbs.nl), September '19 - August '24
 - Research Assistant at CES Ifo Institute for Economic Research, Munich, Germany, April - June '17
 - Research Assistant at Center for Financial Frictions, Copenhagen Business School, Denmark, August - November '16
 - Research Assistant at University of Konstanz, Germany, November '15 - February '17
@@ -63,7 +62,7 @@ Potrafke, N., Rösch, M., & Ursprung, H. (2020). [*Election systems, the “beau
 
 ### 2022
 - European Trade Study Group Meeting, Groningen, Netherlands
-- Erasmus University Rotterdam, Netherlands (2x)
+- Strategy Seminar, Erasmus University Rotterdam, Netherlands (2x)
 - Statistics Netherlands
 
 ### 2019-2021
